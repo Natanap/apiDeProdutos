@@ -1,20 +1,20 @@
 [ 
   {
 	"id": "1",
-	"nome": "Sushi",
+	"name": "Sushi",
 	"img": "https://www.segurospromo.com.br/blog/wp-content/uploads/2020/12/culinaria-japonesa-sushi.jpg",
-	"descrição": "Trata-se de um bolinho de arroz, temperado com vinagre e coberto por uma fatia de peixe cru e, depois, misturado com frutos do mar ou algas. "
+	"description": "Trata-se de um bolinho de arroz, temperado com vinagre e coberto por uma fatia de peixe cru e, depois, misturado com frutos do mar ou algas. "
    },
    {
 	"id": "2",
-	"nome": "Sashimi",
+	"name": "Sashimi",
 	"img": "https://www.comidaereceitas.com.br/img/sizeswp/1200x675/2014/10/sashimi_salmao_especial.jpg",
-	"descrição": "Trata-se de fatias finas de frutos do mar ou peixe cru, como salmão, atum, tilápia e peixe branco."
+	"description": "Trata-se de fatias finas de frutos do mar ou peixe cru, como salmão, atum, tilápia e peixe branco."
    },
    {
 	"id": "3",
-	"nome": "Niguiri",
+	"name": "Niguiri",
 	"img": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-niguiri-de-salmao-0.jpg",
-	"descrição": "Um bolinho de arroz em formato alongado e coberto com fatias de peixe cru ou outras espécies, como camarão e polvo."
+	"description": "Um bolinho de arroz em formato alongado e coberto com fatias de peixe cru ou outras espécies, como camarão e polvo."
    }
 ]
